@@ -1,3 +1,17 @@
+# Zonchess
+
+## Front-End
+Sveltekit, Typescript
+
+## BackEnd
+Fastify, Typescript and MongoDB
+
+## Mono structure
+
+```apps/api``` Backend
+
+```apps/web``` Front-End
+
 # Getting Started with [Fastify-CLI](https://www.npmjs.com/package/fastify-cli)
 This project was bootstrapped with Fastify-CLI.
 
